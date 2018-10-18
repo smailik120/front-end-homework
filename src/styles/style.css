@@ -1,0 +1,49 @@
+﻿.href-list li {
+display:inline;
+margin-right:100px;
+}
+.href-list {
+display: inline-block;
+margin: 30px 0px 0px 0px;
+float:right;
+}
+.title {
+display:inline-block;
+float:left;
+}
+.header-img {
+clear:left;
+width:100%;
+}
+#img-header {
+margin: 5% 5% 5% 5%;
+width:90%;
+height:80%;
+}
+#img-content-left-1 {
+width:90%;
+height:60%;
+}
+.contents {
+margin: 100px 100px 100px 100px;
+}
+.right-content {
+float:right;
+margin: 0px 0px 0px 0px
+}
+.gray-text {
+color:gray;
+}
+.left-content {
+width:50%;
+float:right;
+margin: 0px 0px 0px 0px;
+}
+footer {
+	float:left;
+	width:90%;
+	margin: 5% 5% 5% 5%;
+	clear:left;
+	cleat:right;
+	background: #D3D3D3;
+}
